@@ -1,12 +1,12 @@
-# LLM-Architecture-Evaluation
-This repository contains code and analysis for the Build LLM: Research Based Assessment assignment, conducted under the Program Elective course Build GPT from Scratch offered by Vizuara.
+## LLM-Architecture-Evaluation
+This repository contains code and analysis for the Build LLM: Research Based Assessment assignment, conducted under the Program Elective course Build LLM from Scratch offered by Vizuara.
 Overview
 
-The objective of this project is to investigate the effects of various architectural components and hyperparameters on the training dynamics and output quality of Large Language Models (LLMs) trained from scratch. The work includes both baseline implementation and ablation studies, providing empirical insight into transformer model design choices.
+The objective of this work is to investigate the effects of various architectural components and hyperparameters on the training dynamics and output quality of Large Language Models (LLMs) trained from scratch. The work includes both baseline implementation and ablation studies, providing empirical insight into transformer model design choices.
 
-Team Members
-Yash Kambli – yash.kambli22@spit.ac.in
-Ayush Nemade - ayush.nemade22@spit.ac.in
+## Team Members
+- [Yash Kambli](https://github.com/import-srfi-175) – [yash.kambli22@spit.ac.in](mailto:john.doe@example.com)  
+- [Ayush Nemade](https://github.com) – [ayush.nemade22@spit.ac.in](mailto:jane.doe@example.com)
 
 ## Description
 
