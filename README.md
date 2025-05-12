@@ -6,7 +6,7 @@ The objective of this work is to investigate the effects of various architectura
 
 ## Team Members
 - [Yash Kambli](https://github.com/import-srfi-175) – [yash.kambli22@spit.ac.in](mailto:john.doe@example.com)  
-- [Ayush Nemade](https://github.com) – [ayush.nemade22@spit.ac.in](mailto:jane.doe@example.com)
+- [Ayush Nemade](https://github.com/Atom717) – [ayush.nemade22@spit.ac.in](mailto:jane.doe@example.com)
 
 ## Description
 
